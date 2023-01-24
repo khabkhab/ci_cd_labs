@@ -36,4 +36,4 @@ Start an app based on Tomcat that uses Nginx and SQL for the web and database pa
 #### was added to application.properties
 
 
-#### Additionally, my sincere gratitude to Alexandr for his help, patiente and explanation. Check his [github](https://github.com/just4lex) account.
+#### Additionally, my sincere gratitude to Alexandr for his help, patience and explanation. Check his [github](https://github.com/just4lex) account.
